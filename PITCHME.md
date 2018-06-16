@@ -31,21 +31,26 @@ Creating a New Custom Application
 ![Alt Text](https://i1.wp.com/blog.docker.com/wp-content/uploads/2018/06/13092428/app1.png?zoom=2&resize=280%2C208&ssl=1)
 
 +++
-* コンテナ化するアプリケーションを選ぶ
-* DockerfileとComposefileが作られる
+* コンテナ化するアプリケーションを自分で選ぶ
+* 最終的にDockerfileとComposefileが作られる
 
 +++
 
 ![Alt Text](https://i2.wp.com/blog.docker.com/wp-content/uploads/2018/06/13092516/app2.png?resize=975%2C400&ssl=1)
+
++++
+
 ![Alt Text](https://i0.wp.com/blog.docker.com/wp-content/uploads/2018/06/13084748/image-files.png?resize=1000%2C372&ssl=1)
 
 +++
 
 Building from Templates
 
-* 事前に用意されたアプリケーションテンプレートを使う
-
 ![Alt Text](https://i0.wp.com/blog.docker.com/wp-content/uploads/2018/06/13092759/app5.png?zoom=2&resize=284%2C208&ssl=1)
+
++++
+
+* 事前に用意されたアプリケーションテンプレートを使う
 
 +++
 
@@ -67,8 +72,25 @@ Extending Kubernetes To Windows Server With Docker Enterprise Edition
 ---
 Federated Application Management In Docker Enterprise Edition
 
++++
+* DockerEEでK8Sを一元管理
+* オンプレ + マルチクラウド間でコンテナ移動・複製とかできる
+* AKS、EKS、GKE
 
 +++
+
+![Alt Text](https://i0.wp.com/blog.docker.com/wp-content/uploads/2018/06/13091244/fed11.png?resize=888%2C381&ssl=1)
+
++++
+
+![Alt Text](https://i0.wp.com/blog.docker.com/wp-content/uploads/2018/06/13091403/fed4.png?resize=882%2C463&ssl=1)
+
++++
+
+
+
+
+---
 
 Open Source Serverless Frameworks On Docker EE
 
