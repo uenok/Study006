@@ -1,21 +1,31 @@
-## KVMについて
-勉強会資料  
+## dockercon 2018 まとめ
 
 
 by GitPitch
 ---
 
-Kernel-based Virtual Machine  
+Training: June 11-12, 2018.  
+Conference: June 12-15, 2018.  
 
-2006年にQumranetが開発  
-2008年にRedHatに買収  
+---
 
-+++
+| Morning | Afternoon
+------------| ------------ | -------------
+Day1 | Keynote & Breakouts | Breakouts Sessions & Networking Activities
+Day2 | Content in the first column | Content in the second column
 
-CPUの仮想化支援機能を前提に設計  
-Linuxカーネル自体をハイパーバイザとする事ができる  
+---
 
-AWSのEC2インスタンスとしても採用  
-➔C5、M5  
+- [x] @mentions, #refs, [links](), **formatting**, and <del>tags</del> supported
+- [x] list syntax required (any unordered or ordered list supported)
+- [x] this is a complete item
+- [ ] this is an incomplete item
+
+---
+
+DockerEEで 
+マルチクラウド間のコンテナ管理
+
+
 
 ---
