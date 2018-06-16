@@ -24,24 +24,31 @@ Introducing An Easier Way To Design Applications In Docker Desktop
 * Dockerアプリケーションの構築の簡略化
 * Dockerfile + ComposeをGUIで数クリックで構成できる
 
-https://blog.docker.com/2018/06/design-applications-in-docker-desktop/
++++
+
+Creating a New Custom Application
+
+![Alt Text](https://i1.wp.com/blog.docker.com/wp-content/uploads/2018/06/13092428/app1.png?zoom=2&resize=280%2C208&ssl=1)
 
 +++
 
-![alt](image/img001.png)
-![Alt Text](https://i1.wp.com/blog.docker.com/wp-content/uploads/2018/06/13094639/win1.png?resize=816%2C545&ssl=1)
+Building from Templates
+
+![Alt Text](https://i0.wp.com/blog.docker.com/wp-content/uploads/2018/06/13092759/app5.png?zoom=2&resize=284%2C208&ssl=1)
+![Alt Text](https://i1.wp.com/blog.docker.com/wp-content/uploads/2018/06/13092818/app6.png?resize=975%2C311&ssl=1)
 
 ---
 Extending Kubernetes To Windows Server With Docker Enterprise Edition
 
 
 +++
-* Windows Server上のKubernetes
+* Windows Server上でKubernetesサポート
 * WindowsとLinuxの混在したクラスタを構成できる
 * .Net + Linuxアプリケーション
 
 +++
-<img src="image/img002.png" width="300" height="200" >
+
+![Alt Text](https://i1.wp.com/blog.docker.com/wp-content/uploads/2018/06/13094639/win1.png?resize=816%2C545&ssl=1)
 
 ---
 Federated Application Management In Docker Enterprise Edition
