@@ -29,7 +29,7 @@ https://blog.docker.com/2018/06/design-applications-in-docker-desktop/
 +++
 
 ![alt](image/img001.png)
-
+![Alt Text](https://i1.wp.com/blog.docker.com/wp-content/uploads/2018/06/13094639/win1.png?resize=816%2C545&ssl=1)
 
 ---
 Extending Kubernetes To Windows Server With Docker Enterprise Edition
