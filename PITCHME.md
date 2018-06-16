@@ -28,8 +28,7 @@ https://blog.docker.com/2018/06/design-applications-in-docker-desktop/
 
 +++
 
-<img src="image/img001.png" width="300" height="200" >
-
+![alt](image/img001.png)
 
 
 ---
