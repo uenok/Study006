@@ -28,7 +28,8 @@ https://blog.docker.com/2018/06/design-applications-in-docker-desktop/
 
 +++
 
-<img src="image/img001.png" width="100" height="100" >
+<img src="image/img001.png" width="300" height="200" >
+
 
 
 ---
@@ -36,7 +37,12 @@ Extending Kubernetes To Windows Server With Docker Enterprise Edition
 
 
 +++
+* Windows Server上のKubernetes
+* WindowsとLinuxの混在したクラスタを構成できる
+* .Net + Linuxアプリケーション
 
++++
+<img src="image/img002.png" width="300" height="200" >
 
 ---
 Federated Application Management In Docker Enterprise Edition
