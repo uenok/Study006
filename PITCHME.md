@@ -101,6 +101,8 @@ Open Source Serverless Frameworks On Docker EE
 
 +++
 
+* サーバレスの要素はCNCF Serverless Working Groupにて一般化されている
+
 ![Alt Text](https://github.com/cncf/wg-serverless/raw/master/whitepaper/image_0.png)
 
 CNCFのServerless Architectureホワイトペーパー
