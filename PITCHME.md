@@ -1,6 +1,6 @@
 ## dockercon 2018 summary
-
-
+  
+  
 by GitPitch
 ---
 
@@ -101,7 +101,7 @@ Open Source Serverless Frameworks On Docker EE
 
 +++
 
-* サーバレスの要素はCNCF Serverless Working Groupにて一般化されている
+* サーバレスの重要な要素はCNCF Serverless Working Groupにて一般化されている
 
 ![Alt Text](https://github.com/cncf/wg-serverless/raw/master/whitepaper/image_0.png)
 
@@ -118,3 +118,5 @@ _CNCFのServerless Architectureホワイトペーパー_
 * Platform services - general cluster or cloud services used by the FaaS solution (sometimes referred to as Backend-as-a-Service)
 
 ---
+
+おわり
