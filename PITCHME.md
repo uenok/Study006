@@ -105,13 +105,16 @@ Open Source Serverless Frameworks On Docker EE
 
 ![Alt Text](https://github.com/cncf/wg-serverless/raw/master/whitepaper/image_0.png)
 
-CNCFのServerless Architectureホワイトペーパー
+_CNCFのServerless Architectureホワイトペーパー_
 
 +++
 
-* Event sources
-* Function instances
-* FaaS Controller
-* Platform services
+* Event sources - trigger or stream events into one or more function instances
+
+* Function instances - a single function/microservice, that can be scaled with demand
+
+* FaaS Controller- deploy, control and monitor function instances and their sources
+
+* Platform services - general cluster or cloud services used by the FaaS solution (sometimes referred to as Backend-as-a-Service)
 
 ---
