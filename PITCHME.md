@@ -10,7 +10,7 @@ Conference: June 12-15, 2018.
 +++
 
 | Morning | Afternoon
---------| ------------ | -----------------
+-------- | -------------- | ---------------
 Day0 | Training | Registration Opens & Hallway Track & Hands-on Labs
 Day1 | Keynote | Breakouts Sessions & Networking Activities
 Day2 | Keynote | Breakouts Sessions & Networking Activities
@@ -21,6 +21,15 @@ Introducing An Easier Way To Design Applications In Docker Desktop
 
 
 +++
+* Dockerアプリケーションの構築の簡略化
+* Dockerfile + ComposeをGUIで数クリックで構成できる
+
+https://blog.docker.com/2018/06/design-applications-in-docker-desktop/
+
++++
+
+<img src="image/img001.png" width="100" height="100" >
+
 
 ---
 Extending Kubernetes To Windows Server With Docker Enterprise Edition
