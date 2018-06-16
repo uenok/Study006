@@ -69,6 +69,10 @@ Extending Kubernetes To Windows Server With Docker Enterprise Edition
 
 ![Alt Text](https://i1.wp.com/blog.docker.com/wp-content/uploads/2018/06/13094639/win1.png?resize=816%2C545&ssl=1)
 
++++
+
+![Alt Text](https://www.publickey1.jp/2018/dockerconsf201805.gif)
+
 ---
 Federated Application Management In Docker Enterprise Edition
 
