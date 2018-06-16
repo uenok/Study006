@@ -75,7 +75,7 @@ Federated Application Management In Docker Enterprise Edition
 +++
 * DockerEEでK8Sを一元管理
 * オンプレ + マルチクラウド間でコンテナ移動・複製とかできる
-* AKS、EKS、GKE
+* Azure(AKS)、AWS(EKS)、GCP(GKE)
 
 +++
 
@@ -85,16 +85,18 @@ Federated Application Management In Docker Enterprise Edition
 
 ![Alt Text](https://i0.wp.com/blog.docker.com/wp-content/uploads/2018/06/13091403/fed4.png?resize=882%2C463&ssl=1)
 
-+++
-
-
-
-
 ---
-
 Open Source Serverless Frameworks On Docker EE
 
 
 +++
+* サーバレス(FaaS)のOSSとしてのDockerEE(オープンソースサーバレス)
+* コンテナプラットフォームの成熟によりクラウドプロバイダ以外でも実現可能になった
+* 6つのフレームワークのリポジトリを公開
+* OpenFaaS、Nuclio、Gestalt、Riff、Fn、OpenWhisk
+
++++
+
+![Alt Text](https://i0.wp.com/blog.docker.com/wp-content/uploads/2018/06/14151242/ser1.png?resize=600%2C441&ssl=1)
 
 ---
