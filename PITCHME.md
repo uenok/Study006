@@ -28,6 +28,7 @@ Introducing An Easier Way To Design Applications In Docker Desktop
 
 Creating a New Custom Application
 
+![Alt Text](https://i2.wp.com/blog.docker.com/wp-content/uploads/2018/06/13092516/app2.png?resize=975%2C400&ssl=1)
 ![Alt Text](https://i1.wp.com/blog.docker.com/wp-content/uploads/2018/06/13092428/app1.png?zoom=2&resize=280%2C208&ssl=1)
 
 +++
