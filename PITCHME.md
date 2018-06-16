@@ -63,7 +63,7 @@ Extending Kubernetes To Windows Server With Docker Enterprise Edition
 +++
 * Windows Server上でKubernetesサポート
 * WindowsとLinuxの混在したクラスタを構成できる
-* .Net + Linuxアプリケーション
+* Windowsアプリケーション + .Netアプリケーション + Linuxアプリケーション
 
 +++
 
@@ -90,7 +90,7 @@ Open Source Serverless Frameworks On Docker EE
 
 
 +++
-* サーバレス(FaaS)のOSSとしてのDockerEE(オープンソースサーバレス)
+* DockerEEでオープンソースサーバレス
 * コンテナプラットフォームの成熟によりクラウドプロバイダ以外でも実現可能になった
 * 6つのフレームワークのリポジトリを公開
 * OpenFaaS、Nuclio、Gestalt、Riff、Fn、OpenWhisk
@@ -98,5 +98,15 @@ Open Source Serverless Frameworks On Docker EE
 +++
 
 ![Alt Text](https://i0.wp.com/blog.docker.com/wp-content/uploads/2018/06/14151242/ser1.png?resize=600%2C441&ssl=1)
+
+CNCF Serverless Working GroupのServerless Architectureホワイトペーパー
+
++++
+
+* Event sources – trigger or stream events into one or more function instances
+* Function instances – a single function/microservice, that can be scaled with demand. Typically, these instances are created as containers.
+* FaaS Controller – deploy, control and monitor function instances and their sources.
+* Platform services – general cluster or cloud services used by the FaaS solution. Generally, these frameworks can be run on a Kubernetes cluster
+
 
 ---
